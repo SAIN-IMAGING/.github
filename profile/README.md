@@ -30,4 +30,4 @@ Pour nous rejoindre, veuillez envoyer un mail en y ajoutant votre identifiant gi
 ## Lien principaux :link:
 - Site web :  https://sain-imaging.github.io/
 - [WIKI du SAIN](https://github.com/SAIN-IMAGING/WIKI-SAIN) **Accès restreint** avec en particulier les [comptes rendus](https://github.com/SAIN-IMAGING/WIKI-SAIN/tree/main/CR)
-- [Kanban](https://github.com/orgs/SAIN-IMAGING/projects/2)https://github.com/orgs/SAIN-IMAGING/projects/2
+- [Kanban](https://github.com/orgs/SAIN-IMAGING/projects/2)
