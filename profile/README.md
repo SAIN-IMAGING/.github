@@ -20,14 +20,14 @@ Les membres de ce groupes sont en discussion à travers divers outils :
 - Une mailing liste
 - Un discord
 
-## Comment nous rejoindre
+## Comment nous rejoindre :muscle:
 
 Pour nous rejoindre, veuillez envoyer un mail en y ajoutant votre identifiant github à :
 
 - benjamin.lemasson[at]univ-grenoble-alpes.fr
 - aurelien.trotier[at]rmsb.u-bordeaux.fr
 
-## Lien principaux
+## Lien principaux :link:
 - Site web :  https://sain-imaging.github.io/
 - [WIKI du SAIN](https://github.com/SAIN-IMAGING/WIKI-SAIN) **Accès restreint** avec en particulier les [comptes rendus](https://github.com/SAIN-IMAGING/WIKI-SAIN/tree/main/CR)
 - [Kanban](https://github.com/orgs/SAIN-IMAGING/projects/2)https://github.com/orgs/SAIN-IMAGING/projects/2
