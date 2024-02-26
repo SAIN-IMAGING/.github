@@ -22,8 +22,8 @@ Les membres de ce groupes sont en discussion à travers divers outils :
 
 Pour nous rejoindre, veuillez envoyer un mail en y ajoutant votre identifiant github à :
 
-benjamin.lemasson[at]univ-grenoble-alpes.fr
-aurelien.trotier[at]rmsb.u-bordeaux.fr
+- benjamin.lemasson[at]univ-grenoble-alpes.fr
+- aurelien.trotier[at]rmsb.u-bordeaux.fr
 
 ## Lien principaux
 - Site web :  https://sain-imaging.github.io/
